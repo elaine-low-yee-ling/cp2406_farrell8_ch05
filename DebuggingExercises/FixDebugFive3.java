@@ -20,7 +20,7 @@ public class FixDebugFive3
       if(item < LOW)
          output = "Item number too low";
       else if (item > HIGH) {
-          output = "Item nu1mber too high";
+          output = "Item number too high";
       }
       else if ((item > LOW) && (item < CUTOFF) ) {
           output = "Valid - in Automotive Department";
